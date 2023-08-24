@@ -1,0 +1,5 @@
+666larravell666
+
+
+pyinstaller --onefile --icon=selfie.ico --hidden-import=colorama obf.py
+
